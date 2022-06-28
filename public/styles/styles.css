@@ -8,6 +8,7 @@ font-family: Roboto;
 h1 {
     color: #fff;
     padding: 10px;
+
 }
 
 .box {
@@ -66,7 +67,6 @@ button {
     font-size: 30px;
     padding-bottom: 6px;
     border-width: 0;
-
 }
 
 input[type="text"] {
